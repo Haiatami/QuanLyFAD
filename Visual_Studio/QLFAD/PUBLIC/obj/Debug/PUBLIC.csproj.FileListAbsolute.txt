@@ -1,0 +1,6 @@
+D:\code\QuanLy\Visual_Studio\QLFAD\PUBLIC\bin\Debug\PUBLIC.dll
+D:\code\QuanLy\Visual_Studio\QLFAD\PUBLIC\bin\Debug\PUBLIC.pdb
+D:\code\QuanLy\Visual_Studio\QLFAD\PUBLIC\obj\Debug\PUBLIC.csproj.AssemblyReference.cache
+D:\code\QuanLy\Visual_Studio\QLFAD\PUBLIC\obj\Debug\PUBLIC.csproj.CoreCompileInputs.cache
+D:\code\QuanLy\Visual_Studio\QLFAD\PUBLIC\obj\Debug\PUBLIC.dll
+D:\code\QuanLy\Visual_Studio\QLFAD\PUBLIC\obj\Debug\PUBLIC.pdb

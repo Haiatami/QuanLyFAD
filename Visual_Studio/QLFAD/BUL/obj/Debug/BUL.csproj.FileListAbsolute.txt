@@ -1,0 +1,9 @@
+D:\code\QuanLy\Visual_Studio\QLFAD\BUL\bin\Debug\BUL.dll
+D:\code\QuanLy\Visual_Studio\QLFAD\BUL\bin\Debug\BUL.pdb
+D:\code\QuanLy\Visual_Studio\QLFAD\BUL\bin\Debug\DAL.dll
+D:\code\QuanLy\Visual_Studio\QLFAD\BUL\bin\Debug\DAL.pdb
+D:\code\QuanLy\Visual_Studio\QLFAD\BUL\obj\Debug\BUL.csproj.AssemblyReference.cache
+D:\code\QuanLy\Visual_Studio\QLFAD\BUL\obj\Debug\BUL.csproj.CoreCompileInputs.cache
+D:\code\QuanLy\Visual_Studio\QLFAD\BUL\obj\Debug\BUL.csproj.CopyComplete
+D:\code\QuanLy\Visual_Studio\QLFAD\BUL\obj\Debug\BUL.dll
+D:\code\QuanLy\Visual_Studio\QLFAD\BUL\obj\Debug\BUL.pdb

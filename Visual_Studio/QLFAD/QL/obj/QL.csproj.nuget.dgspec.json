@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\QL\\QL.csproj": {}
+  },
+  "projects": {
+    "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\BUL\\BUL.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\BUL\\BUL.csproj",
+        "projectName": "BUL",
+        "projectPath": "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\BUL\\BUL.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\DAL\\DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\DAL\\DAL.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\PUBLIC\\PUBLIC.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\PUBLIC\\PUBLIC.csproj",
+        "projectName": "PUBLIC",
+        "projectPath": "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\PUBLIC\\PUBLIC.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\QL\\QL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\QL\\QL.csproj",
+        "projectName": "QL",
+        "projectPath": "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\QL\\QL.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\QL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\DevExpress\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\DevExpress\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\BUL\\BUL.csproj": {
+                "projectPath": "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\BUL\\BUL.csproj"
+              },
+              "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\PUBLIC\\PUBLIC.csproj": {
+                "projectPath": "D:\\code\\QuanLy\\Visual_Studio\\QLFAD\\PUBLIC\\PUBLIC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
